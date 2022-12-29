@@ -1,5 +1,4 @@
-#:schema ../extra/schemas/color-theme.json
-
+#:schema https://raw.githubusercontent.com/lapce/lapce/master/extra/schemas/color-theme.json
 [color-theme]
 name = "Kanagawa"
 
