@@ -1,6 +1,6 @@
 #:schema https://raw.githubusercontent.com/ghishadow/lapce-schema/main/volt.theme.schema.json
 name = "kanagawa"
-version = "0.0.3"
+version = "0.0.4"
 display-name = "Kanagawa theme"
 description = "dark colorscheme inspired by the colors of the famous painting by Katsushika Hokusai. (based on Neovim theme)"
 author = "ghishadow"
